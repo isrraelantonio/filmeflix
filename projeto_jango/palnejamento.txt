@@ -1,0 +1,31 @@
+ Nesse momento iremos planejar o seu site para que possamos compreender o que o site deve fazer, quais os objetos, dentre outras características.
+
+
+ home page -- essa é a lógica ao se construir o site o estruturando 
+
+
+
+#falogin e criar conta(usuário e autenticação)
+
+    -username
+    -email 
+    -senha 
+    -filmes já vistos
+    -editar perfil
+
+
+
+#filmes/séries
+
+  -epsódios 
+      -vídeos 
+      -título 
+  -thumb
+  -categoria
+  -data de criação
+  -descrição 
+  -título
+
+
+
+#barra de pesquisa
